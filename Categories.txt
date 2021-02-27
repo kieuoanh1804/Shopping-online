@@ -1,0 +1,1 @@
+1Ao phongChat lieu vai HQ1 2 3 4 100 100 100 100 2AO so-miChat lieu vai USA5 6 200 355 3Quan shortChat lieu vai cao cap7 8 9 10 155 255 366 121 4Chan vay Chat lieu vai mem mai11 12 13 14 122 56 45 655 5Mu Nhap khau Canada15 16 20 46 6GiayVai nhe, mem, thoang17 18 19 20 20 40 35 21 
